@@ -1,0 +1,22 @@
+{
+  "name": "e-cms-simple-bundle",
+  "version": "1.0.0",
+  "description": "Entando very simple CMS bundle",
+  "main": "descriptor.yaml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerruba-bundles/entando-cms-simple-bundle.git"
+  },
+  "keywords": [
+    "entando6"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerruba-bundles/entando-cms-simple-bundle/issues"
+  },
+  "homepage": "https://github.com/kerruba-bundles/entando-cms-simple-bundle#readme"
+}

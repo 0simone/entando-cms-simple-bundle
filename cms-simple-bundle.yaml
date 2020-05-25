@@ -1,0 +1,29 @@
+apiVersion: entando.org/v1
+kind: EntandoDeBundle
+metadata:
+  name: e-cms-simple-bundle
+spec:
+  details:
+    name: e-cms-simple-bundle
+    description: Entando very simple CMS bundle
+    dist-tags:
+      latest: 1.0.0
+    time:
+      created: '2020-05-13T09:22:04.731Z'
+      modified: '2020-05-13T09:22:04.731Z'
+      1.0.0: '2020-05-13T09:22:04.731Z'
+    versions:
+      - 1.0.0
+    keywords:
+      - entando6
+    repository:
+      type: git
+      url: 'git+https://github.com/kerruba-bundles/entando-cms-simple-bundle.git'
+  tags:
+    - version: 1.0.0
+      integrity: >-
+        sha512-Ys1L/KfJP36viAWIzoXKRZQEXdW0NoUw9qYorYikqmF5YN3TMBC4OFus9ojsQA/UipA8e9aE4lK8XmJJb7txdw==
+      shasum: 556eb36b4371d468ac7a1dc6edc3aae2728a447d
+      tarball: >-
+        http://nexus.lab.entando.org/repository/npm-entando-validation/e-cms-simple-bundle/-/e-cms-simple-bundle-1.0.0.tgz
+
